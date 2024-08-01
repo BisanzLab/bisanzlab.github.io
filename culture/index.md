@@ -27,13 +27,13 @@ Science is more fun (and productive) as a team. We build our team atmosphere thr
 
 {% capture content %}
 
-{% include figure.html image="images/team.jpg" %} {% include figure.html image="images/news.jpg" %}
+{% include figure.html image="images/team.jpg" %} {% include figure.html image="images/news.jpg" %} \
 
-{% include figure.html image="images/culture.jpg" %} {% include figure.html image="images/dumplings.jpg" %}
+{% include figure.html image="images/culture.jpg" %} {% include figure.html image="images/dumplings.jpg" %} \
 
-{% include figure.html image="images/ohmc_symposium_1.jpg" %} {% include figure.html image="images/the_three_musketeers.jpg" %}
+{% include figure.html image="images/ohmc_symposium_1.jpg" %} {% include figure.html image="images/the_three_musketeers.jpg" %} \
 
-{% include figure.html image="images/lab_photo.jpg" %}
+{% include figure.html image="images/lab_photo.jpg" %} \
 
 {% endcapture %}
 
