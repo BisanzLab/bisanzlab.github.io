@@ -2,6 +2,10 @@
 
 # team member roles
 
+labtech:
+  icon: fa-solid fa-flask
+  description: Research Technologist
+
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
