@@ -3,7 +3,7 @@ name: Ben Anderson
 image: images/team/Anderson_Ben.jpg
 role: phd
 aliases:
-  - BD Anderson
+  - Benjamin D Anderson
 links:
   email: bda5161@psu.edu
   orcid: 0000-0002-4464-9157
