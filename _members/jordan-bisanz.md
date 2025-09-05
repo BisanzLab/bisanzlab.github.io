@@ -2,8 +2,6 @@
 name: Jordan Bisanz
 image: images/team/Bisanz_Jordan.jpg
 role: pi
-aliases:
-  - JE Bisanz
 links:
   email: jordan.bisanz@psu.com
   orcid: 0000-0002-8649-1706
