@@ -2,6 +2,9 @@
 name: Susan Tian
 image: /images/team/Tian_Susan.jpg
 role: phd
+aliases:
+  - Shuchang Tian
+  - S Tian
 links:
   email: sbt5355@psu.com
   google-scholar: tbwE56MAAAAJ
