@@ -5,6 +5,12 @@ nav:
   tooltip: Tools and Techniques
 ---
 
+## PSU One Health Microbiome Center Co-Laboratory
+
+We support a collaborative space for high throughput microbiome characterization made possible in part through donations from Qiagen. Find out more about their support for microbiome research [here](https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2024/QIAGEN-announces-partnership-with-Penn-State-University-to-advance-microbiome-sciences/default.aspx). Find out more about the space [here](https://www.huck.psu.edu/institutes-and-centers/microbiome-center/member-resources/microbiome-research-resources). We also host open protocols for sample extraction and sequencing [here](https://github.com/BisanzLab/OHMC_Colaboratory).
+
+![](/images/colab.png)
+
 ## Wet Lab Protocols
 
 Science doesn't need to be so hard! Most protocols are far from proprietary but finding concise instructions is often difficult. We share most of our protocols so they can hopefully be helpful for other microbiome researchers! See the [Lab's Protocol GitHub Repository](https://github.com/bisanzlab/labprotocols)
