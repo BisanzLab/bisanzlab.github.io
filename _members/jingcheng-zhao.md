@@ -2,6 +2,8 @@
 name: Jingcheng Zhao
 image: images/team/Zhao_Jingcheng.jpg
 role: postdoc
+aliases:
+  - J Zhao
 links:
   email: jjz5561@psu.edu
 ---
