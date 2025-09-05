@@ -11,7 +11,7 @@ nav:
 We have opportunities for postdocs with interests in microbiology, microbial ecology, computational biology, and/or host-microbe interactions. Please contact Jordan with your CV, a description of your research interests, and a description of how your unique experiences and skills will help us build a diverse multi-disciplinary team!
 
 ### Graduate Students
-We do not currently have openings for graduate students; however, we are part of both the Biochemistry, Microbiology and Molecular Biology (BMMB) and Molecular, Cellular, and Integrative Biosciences (MCIBS) programs. Please learn more about these programs and other faculty members who are part of the [One Health Microbiome Center](https://www.huck.psu.edu/institutes-and-centers/microbiome-center)
+We are part of  the Biochemistry, Microbiology and Molecular Biology (BMMB); Molecular, Cellular, and Integrative Biosciences (MCIBS); and Bioinformatics and Genomics programs at PSU. Please learn more about these programs and other faculty members who are part of the [One Health Microbiome Center](https://www.huck.psu.edu/institutes-and-centers/microbiome-center). We are not able to accept direct entry graduate students. Applications are due in the late fall of the year before program entry.
 
 ### Undergraduate Students
 Are you an undergraduate student who is interested in a career in biomedical research and/or graduate school? Opportunities are currently available through BMB496. Please see [here](https://science.psu.edu/bmb/undergraduate/ResearchOpportunities/BMB496) for more information and contact Jordan with your Resume/CV, Transcript, a description of your experience in the lab, and how your unique experiences and skills will help us build a diverse multi-disciplinary tream.
