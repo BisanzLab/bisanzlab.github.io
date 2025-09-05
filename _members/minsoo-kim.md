@@ -2,6 +2,8 @@
 name: Min Soo Kim
 image: images/team/Kim_MinSoo.jpg
 role: phd
+aliases:
+  - MS Kim
 links:
   email: msk5737@psu.com
   orcid: 0000-0002-3322-9448
