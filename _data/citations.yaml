@@ -1,54 +1,356 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.08.08.551713
-  title: Main Manuscript for Microbiome single cell atlases generated with a benchtop
-    instrument
+- id: pubmed:40794845
+  title: StrainR2 accurately deconvolutes strain-level abundances in synthetic microbial
+    communities.
+  authors:
+  - Kerim Heber
+  - Shuchang Tian
+  - Daniela Betancurt-Anzola
+  - Heejung Koo
+  - Jordan E Bisanz
+  publisher: Bioinformatics (Oxford, England)
+  date: '2025-08-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40794845
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40612050
+  title: 'Nighttime Pistachio Consumption Alters Stool Microbiota Diversity and Taxa
+    Abundance Compared with Education to Consume 1-2 Carbohydrate Exchanges (15-30
+    grams) over 12 Weeks in Adults with Prediabetes: A Secondary Analysis from a Randomized
+    Crossover Trial.'
+  authors:
+  - Terrence M Riley
+  - Justin Wright
+  - Regina Lamendella
+  - Jordan E Bisanz
+  - Jeremy Chen See
+  - Khushi Kanani
+  - Penny M Kris-Etherton
+  - Kristina S Petersen
+  publisher: Current developments in nutrition
+  date: '2025-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40612050
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40462354
+  title: Microbiome Single Cell Atlases Generated with a Commercial Instrument.
   authors:
   - Xiangpeng Li
   - Linfeng Xu
   - Benjamin Demaree
   - Cecilia Noecker
-  - Jordan E. Bisanz
-  - Daniel W. Weisgerber
+  - Jordan E Bisanz
+  - Daniel W Weisgerber
   - Cyrus Modavi
-  - Peter J. Turnbaugh
-  - Adam R. Abate
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-08-10'
-  link: https://doi.org/gstdw3
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1128/mbio.00889-23
-  title: Mild SARS-CoV-2 infection results in long-lasting microbiota instability
+  - Peter J Turnbaugh
+  - Adam R Abate
+  publisher: Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+  date: '2025-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40462354
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:40037353
+  title: A designed synthetic microbiota provides insight to community function in
+    Clostridioides difficile resistance.
+  authors:
+  - Shuchang Tian
+  - Min Soo Kim
+  - Jingcheng Zhao
+  - Kerim Heber
+  - Fuhua Hao
+  - David Koslicki
+  - Sangshan Tian
+  - Vishal Singh
+  - Andrew D Patterson
+  - Jordan E Bisanz
+  publisher: Cell host & microbe
+  date: '2025-03-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40037353
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39677657
+  title: Coordinated variation in the immune systems and microbiomes of healthy humans
+    is linked to tonic interferon states.
+  authors:
+  - Joel Babdor
+  - Ravi K Patel
+  - Brittany Davidson
+  - Cecilia Noecker
+  - Maha Rahim
+  - Jordan E Bisanz
+  - Iliana Tenvooren
+  - Diana Marquez
+  - Maria Calvo
+  - Vrinda Johri
+  - Elizabeth McCarthy
+  - Avneet Shaheed
+  - Christina Ekstrand
+  - Allison M Weakley
+  - Feiqiao B Yu
+  - Oliver Fiehn
+  - Peter J Turnbaugh
+  - Alexis J Combes
+  - Gabriela K Fragiadakis
+  - Matthew H Spitzer
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-12-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39677657
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39502024
+  title: Black Raspberry Modulates Cecal and Oral Microbiomes at the Early Stage of
+    a Dibenzo[def,p]chrysene-Induced Murine Oral Cancer Model.
+  authors:
+  - Jingcheng Zhao
+  - Yuan-Wan Sun
+  - Kun-Ming Chen
+  - Cesar Aliaga
+  - Jordan E Bisanz
+  - Karam El-Bayoumy
+  publisher: Cancer prevention research (Philadelphia, Pa.)
+  date: '2025-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39502024
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39306897
+  title: Multiple mycotoxin exposure assessment through human biomonitoring in an
+    esophageal cancer case-control study in the Arsi-Bale districts of Oromia region
+    of Ethiopia.
+  authors:
+  - Girma Mulisa
+  - Roger Pero-Gascon
+  - Valerie McCormack
+  - Jordan E Bisanz
+  - Fazlur Rahman Talukdar
+  - Tamrat Abebe
+  - Marthe De Boevre
+  - Sarah De Saeger
+  publisher: International journal of hygiene and environmental health
+  date: '2024-09-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39306897
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39149354
+  title: StrainR2 accurately deconvolutes strain-level abundances in synthetic microbial
+    communities.
+  authors:
+  - Kerim Heber
+  - Shuchang Tian
+  - Daniela Betancurt-Anzola
+  - Heejung Koo
+  - Jordan E Bisanz
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-08-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39149354
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39140734
+  title: Effects of Early Life Exposures to the Aryl Hydrocarbon Receptor Ligand TCDF
+    on Gut Microbiota and Host Metabolic Homeostasis in C57BL/6J Mice.
+  authors:
+  - Yuan Tian
+  - Bipin Rimal
+  - Jordan E Bisanz
+  - Wei Gui
+  - Trenton M Wolfe
+  - Imhoi Koo
+  - Iain A Murray
+  - Shaneice K Nettleford
+  - Shigetoshi Yokoyama
+  - Fangcong Dong
+  - Sergei Koshkin
+  - K Sandeep Prabhu
+  - Peter J Turnbaugh
+  - Seth T Walk
+  - Gary H Perdew
+  - Andrew D Patterson
+  publisher: Environmental health perspectives
+  date: '2024-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39140734
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39009468
+  title: High Cannabigerol Hemp Extract Moderates Colitis and Modulates the Microbiome
+    in an Inflammatory Bowel Disease Model.
+  authors:
+  - Benjamin D Anderson
+  - Diana E Sepulveda
+  - Rahul Nachnani
+  - Alonso Cortez-Resendiz
+  - Matthew D Coates
+  - Aviauna Beckett
+  - Jordan E Bisanz
+  - Joshua J Kellogg
+  - Wesley M Raup-Konsavage
+  publisher: The Journal of pharmacology and experimental therapeutics
+  date: '2024-08-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39009468
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38947502
+  title: Human gut Actinobacteria boost drug absorption by secreting P-glycoprotein
+    ATPase inhibitors.
+  authors:
+  - Than S Kyaw
+  - Chen Zhang
+  - Moriah Sandy
+  - Kai Trepka
+  - Shenwei Zhang
+  - Luis A Ramirez Hernandez
+  - Lorenzo Ramirez
+  - Janice J N Goh
+  - Kristie Yu
+  - Vincent Dimassa
+  - Elizabeth N Bess
+  - Jacob G Brockert
+  - Darren S Dumlao
+  - Jordan E Bisanz
+  - Peter J Turnbaugh
+  publisher: iScience
+  date: '2024-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38947502
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38795705
+  title: Gut bacteria convert glucocorticoids into progestins in the presence of hydrogen
+    gas.
+  authors:
+  - Megan D McCurry
+  - Gabriel D D'Agostino
+  - Jasmine T Walsh
+  - Jordan E Bisanz
+  - Ines Zalosnik
+  - Xueyang Dong
+  - David J Morris
+  - Joshua R Korzenik
+  - Andrea G Edlow
+  - Emily P Balskus
+  - Peter J Turnbaugh
+  - Jun R Huh
+  - A Sloan Devlin
+  publisher: Cell
+  date: '2024-05-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38795705
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38777605
+  title: The Potential of Cannabichromene (CBC) as a Therapeutic Agent.
+  authors:
+  - Diana E Sepulveda
+  - Kent E Vrana
+  - Joshua J Kellogg
+  - Jordan E Bisanz
+  - Dhimant Desai
+  - Nicholas M Graziane
+  - Wesley M Raup-Konsavage
+  publisher: The Journal of pharmacology and experimental therapeutics
+  date: '2024-10-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38777605
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:38326609
+  title: Bile salt hydrolase catalyses formation of amine-conjugated bile acids.
+  authors:
+  - Bipin Rimal
+  - Stephanie L Collins
+  - Ceylan E Tanes
+  - Edson R Rocha
+  - Megan A Granda
+  - Sumeet Solanki
+  - Nushrat J Hoque
+  - Emily C Gentry
+  - Imhoi Koo
+  - Erin R Reilly
+  - Fuhua Hao
+  - Devendra Paudel
+  - Vishal Singh
+  - Tingting Yan
+  - Min Soo Kim
+  - Kyle Bittinger
+  - Joseph P Zackular
+  - Kristopher W Krausz
+  - Dhimant Desai
+  - Shantu Amin
+  - James P Coleman
+  - Yatrik M Shah
+  - Jordan E Bisanz
+  - Frank J Gonzalez
+  - John P Vanden Heuvel
+  - Gary D Wu
+  - Babette S Zemel
+  - Pieter C Dorrestein
+  - Emily E Weinert
+  - Andrew D Patterson
+  publisher: Nature
+  date: '2024-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38326609
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37609281
+  title: Microbiome single cell atlases generated with a commercial instrument.
+  authors:
+  - Xiangpeng Li
+  - Linfeng Xu
+  - Benjamin Demaree
+  - Cecilia Noecker
+  - Jordan E Bisanz
+  - Daniel W Weisgerber
+  - Cyrus Modavi
+  - Peter J Turnbaugh
+  - Adam R Abate
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-03-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37609281
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37294090
+  title: Mild SARS-CoV-2 infection results in long-lasting microbiota instability.
   authors:
   - Vaibhav Upadhyay
-  - Rahul K. Suryawanshi
+  - Rahul K Suryawanshi
   - Preston Tasoff
   - Maria McCavitt-Malvido
-  - Renuka G. Kumar
+  - Renuka G Kumar
   - Victoria Wong Murray
   - Cecilia Noecker
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Yulin Hswen
-  - Connie W. Y. Ha
+  - Connie W Y Ha
   - Bharath Sreekumar
-  - Irene P. Chen
-  - Susan V. Lynch
+  - Irene P Chen
+  - Susan V Lynch
   - Melanie Ott
   - Sulggi Lee
-  - Peter J. Turnbaugh
+  - Peter J Turnbaugh
   publisher: mBio
   date: '2023-06-09'
-  link: https://doi.org/gstdw4
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pbio.3002125
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37294090
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37205710
   title: Systems biology elucidates the distinctive metabolic niche filled by the
-    human gut microbe Eggerthella lenta
+    human gut microbe Eggerthella lenta.
   authors:
   - Cecilia Noecker
   - Juan Sanchez
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Veronica Escalante
   - Margaret Alexander
   - Kai Trepka
@@ -56,94 +358,101 @@
   - Yuanyuan Liu
   - Dylan Dodd
   - Ines Thiele
-  - Brian C. DeFelice
-  - Peter J. Turnbaugh
-  publisher: PLOS Biology
+  - Brian C DeFelice
+  - Peter J Turnbaugh
+  publisher: PLoS biology
   date: '2023-05-19'
-  link: https://doi.org/gstdw5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41579-023-00888-0
-  title: Roles of the gut microbiome in weight management
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37205710
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:37138047
+  title: Roles of the gut microbiome in weight management.
   authors:
-  - Rachel N. Carmody
-  - Jordan E. Bisanz
-  publisher: Nature Reviews Microbiology
+  - Rachel N Carmody
+  - Jordan E Bisanz
+  publisher: Nature reviews. Microbiology
   date: '2023-05-03'
-  link: https://doi.org/gstdw6
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3389/fmicb.2023.1117122
-  title: Challenges and opportunities of strain diversity in gut microbiome research
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37138047
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36876113
+  title: Challenges and opportunities of strain diversity in gut microbiome research.
   authors:
-  - Benjamin D. Anderson
-  - Jordan E. Bisanz
-  publisher: Frontiers in Microbiology
+  - Benjamin D Anderson
+  - Jordan E Bisanz
+  publisher: Frontiers in microbiology
   date: '2023-02-17'
-  link: https://doi.org/gstdw7
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2022.12.007
-  title: Meta-organismal metabolism in cardiovascular disease
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36876113
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36634617
+  title: Meta-organismal metabolism in cardiovascular disease.
   authors:
   - Min Soo Kim
-  - Jordan E. Bisanz
-  publisher: Cell Host &amp; Microbe
-  date: '2023-01-01'
-  link: https://doi.org/gstdw8
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.12.07.519508
-  title: Mild SARS-CoV-2 infection results in long-lasting microbiota instability
+  - Jordan E Bisanz
+  publisher: Cell host & microbe
+  date: '2023-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36634617
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36523400
+  title: Mild SARS-CoV-2 infection results in long-lasting microbiota instability.
   authors:
   - Vaibhav Upadhyay
   - Rahul Suryawanshi
   - Preston Tasoff
   - Maria McCavitt-Malvido
-  - G. Renuka Kumar
+  - G Renuka Kumar
   - Victoria Wong Murray
   - Cecilia Noecker
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Yulin Hswen
   - Connie Ha
   - Bharat Sreekumar
-  - Irene P. Chen
+  - Irene P Chen
   - Susan V Lynch
   - Melanie Ott
   - Sulggi Lee
-  - Peter J. Turnbaugh
-  publisher: Cold Spring Harbor Laboratory
+  - Peter J Turnbaugh
+  publisher: 'bioRxiv : the preprint server for biology'
   date: '2022-12-08'
-  link: https://doi.org/gstdw9
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2022.10.005
-  title: Making gut microbiomes from scratch
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36523400
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36356566
+  title: Making gut microbiomes from scratch.
   authors:
   - Shuchang Tian
-  - Jordan E. Bisanz
-  publisher: Cell Host &amp; Microbe
-  date: '2022-11-01'
-  link: https://doi.org/gstdxb
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41579-022-00805-x
+  - Jordan E Bisanz
+  publisher: Cell host & microbe
+  date: '2022-11-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36356566
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:36253479
   title: 'Bile acids and the gut microbiota: metabolic interactions and impacts on
-    disease'
+    disease.'
   authors:
-  - Stephanie L. Collins
-  - Jonathan G. Stine
-  - Jordan E. Bisanz
-  - C. Denise Okafor
-  - Andrew D. Patterson
-  publisher: Nature Reviews Microbiology
+  - Stephanie L Collins
+  - Jonathan G Stine
+  - Jordan E Bisanz
+  - C Denise Okafor
+  - Andrew D Patterson
+  publisher: Nature reviews. Microbiology
   date: '2022-10-17'
-  link: https://doi.org/grs85p
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1186/s40168-022-01249-4
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36253479
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35379337
   title: Effects of caloric restriction on the gut microbiome are linked with immune
-    senescence
+    senescence.
   authors:
   - Julia Sbierski-Kind
   - Sophia Grenkowitz
@@ -157,83 +466,83 @@
   - "Andrea Th\xFCrmer"
   - "Aleksandar Radoni\u0107"
   - Oliver Drechsel
-  - Peter J. Turnbaugh
-  - Jordan E. Bisanz
+  - Peter J Turnbaugh
+  - Jordan E Bisanz
   - Hans-Dieter Volk
   - Joachim Spranger
   - Reiner Jumpertz von Schwartzenberg
   publisher: Microbiome
   date: '2022-04-04'
-  link: https://doi.org/gqw86v
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41586-022-04480-z
-  title: "Human gut bacteria produce \u03A4\u039717-modulating bile\_acid metabolites"
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35379337
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35296854
+  title: "Human gut bacteria produce \u03A4"
   authors:
   - Donggi Paik
   - Lina Yao
   - Yancong Zhang
   - Sena Bae
-  - "Gabriel D. D\u2019Agostino"
+  - Gabriel D D'Agostino
   - Minghao Zhang
   - Eunha Kim
-  - Eric A. Franzosa
+  - Eric A Franzosa
   - Julian Avila-Pacheco
-  - Jordan E. Bisanz
-  - Christopher K. Rakowski
+  - Jordan E Bisanz
+  - Christopher K Rakowski
   - Hera Vlamakis
-  - Ramnik J. Xavier
-  - Peter J. Turnbaugh
-  - Randy S. Longman
-  - Michael R. Krout
-  - Clary B. Clish
+  - Ramnik J Xavier
+  - Peter J Turnbaugh
+  - Randy S Longman
+  - Michael R Krout
+  - Clary B Clish
   - Fraydoon Rastinejad
   - Curtis Huttenhower
-  - Jun R. Huh
-  - A. Sloan Devlin
+  - Jun R Huh
+  - A Sloan Devlin
   publisher: Nature
   date: '2022-03-16'
-  link: https://doi.org/gppvgv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41591-021-01552-x
-  title: 'Reporting guidelines for human microbiome research: the STORMS checklist'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35296854
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34789871
+  title: 'Reporting guidelines for human microbiome research: the STORMS checklist.'
   authors:
   - Chloe Mirzayi
   - Audrey Renson
-  - Cesare Furlanello
-  - Susanna-Assunta Sansone
   - Fatima Zohra
   - Shaimaa Elsafoury
   - Ludwig Geistlinger
-  - Lora J. Kasselman
+  - Lora J Kasselman
   - Kelly Eckenrode
   - Janneke van de Wijgert
   - Amy Loughman
-  - Francine Z. Marques
-  - David A. MacIntyre
+  - Francine Z Marques
+  - David A MacIntyre
   - Manimozhiyan Arumugam
   - Rimsha Azhar
   - Francesco Beghini
   - Kirk Bergstrom
   - Ami Bhatt
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Jonathan Braun
   - Hector Corrada Bravo
-  - Gregory A. Buck
+  - Gregory A Buck
   - Frederic Bushman
   - David Casero
   - Gerard Clarke
   - Maria Carmen Collado
-  - Paul D. Cotter
-  - John F. Cryan
-  - Ryan T. Demmer
+  - Paul D Cotter
+  - John F Cryan
+  - Ryan T Demmer
   - Suzanne Devkota
   - Eran Elinav
-  - Juan S. Escobar
+  - Juan S Escobar
   - Jennifer Fettweis
-  - Robert D. Finn
-  - Anthony A. Fodor
+  - Robert D Finn
+  - Anthony A Fodor
   - Sofia Forslund
   - Andre Franke
   - Cesare Furlanello
@@ -243,39 +552,39 @@
   - Scott Handley
   - Pamela Herd
   - Susan Holmes
-  - Jonathan P. Jacobs
+  - Jonathan P Jacobs
   - Lisa Karstens
   - Rob Knight
   - Dan Knights
   - Omry Koren
-  - Douglas S. Kwon
+  - Douglas S Kwon
   - Morgan Langille
   - Brianna Lindsay
   - Dermot McGovern
-  - Alice C. McHardy
+  - Alice C McHardy
   - Shannon McWeeney
-  - Noel T. Mueller
+  - Noel T Mueller
   - Luigi Nezi
   - Matthew Olm
   - Noah Palm
   - Edoardo Pasolli
   - Jeroen Raes
-  - Matthew R. Redinbo
+  - Matthew R Redinbo
   - "Malte R\xFChlemann"
-  - R. Balfour Sartor
-  - Patrick D. Schloss
+  - R Balfour Sartor
+  - Patrick D Schloss
   - Lynn Schriml
   - Eran Segal
   - Michelle Shardell
   - Thomas Sharpton
   - Ekaterina Smirnova
   - Harry Sokol
-  - Justin L. Sonnenburg
+  - Justin L Sonnenburg
   - Sujatha Srinivasan
-  - Louise B. Thingholm
-  - Peter J. Turnbaugh
+  - Louise B Thingholm
+  - Peter J Turnbaugh
   - Vaibhav Upadhyay
-  - Ramona L. Walls
+  - Ramona L Walls
   - Paul Wilmes
   - Takuji Yamada
   - Georg Zeller
@@ -290,8 +599,8 @@
   - Matthias Fischer
   - Wendell Jones
   - Rebecca Kusko
-  - Christopher E. Mason
-  - Tim R. Mercer
+  - Christopher E Mason
+  - Tim R Mercer
   - Susanna-Assunta Sansone
   - Andreas Scherer
   - Leming Shi
@@ -301,36 +610,38 @@
   - Christopher Hunter
   - Nicola Segata
   - Curtis Huttenhower
-  - Jennifer B. Dowd
-  - Heidi E. Jones
+  - Jennifer B Dowd
+  - Heidi E Jones
   - Levi Waldron
-  publisher: Nature Medicine
-  date: '2021-11-01'
-  link: https://doi.org/gnh5vj
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.celrep.2021.109930
+  publisher: Nature medicine
+  date: '2021-11-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34789871
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34731631
   title: Phage-delivered CRISPR-Cas9 for strain-specific depletion and genomic deletions
-    in the gut microbiome
+    in the gut microbiome.
   authors:
-  - Kathy N. Lam
+  - Kathy N Lam
   - Peter Spanogiannopoulos
   - Paola Soto-Perez
   - Margaret Alexander
-  - Matthew J. Nalley
-  - Jordan E. Bisanz
-  - Renuka R. Nayak
-  - Allison M. Weakley
-  - Feiqiao B. Yu
-  - Peter J. Turnbaugh
-  publisher: Cell Reports
-  date: '2021-11-01'
-  link: https://doi.org/gqjh33
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.70349
+  - Matthew J Nalley
+  - Jordan E Bisanz
+  - Renuka R Nayak
+  - Allison M Weakley
+  - Feiqiao B Yu
+  - Peter J Turnbaugh
+  publisher: Cell reports
+  date: '2021-11-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34731631
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34617511
   title: The East Asian gut microbiome is distinct from colocalized White subjects
-    and connected to metabolic health
+    and connected to metabolic health.
   authors:
   - Qi Yan Ang
   - Diana L Alba
@@ -346,14 +657,15 @@
   - Peter J Turnbaugh
   publisher: eLife
   date: '2021-10-07'
-  link: https://doi.org/gqpn5h
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41586-021-03663-4
-  title: Caloric restriction disrupts the microbiota and colonization resistance
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34617511
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:34163067
+  title: Caloric restriction disrupts the microbiota and colonization resistance.
   authors:
   - Reiner Jumpertz von Schwartzenberg
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Svetlana Lyalina
   - Peter Spanogiannopoulos
   - Qi Yan Ang
@@ -361,58 +673,60 @@
   - Sophia Dickmann
   - Marie Friedrich
   - Su-Yang Liu
-  - Stephanie L. Collins
+  - Stephanie L Collins
   - Danielle Ingebrigtsen
   - Steve Miller
-  - Jessie A. Turnbaugh
-  - Andrew D. Patterson
-  - Katherine S. Pollard
+  - Jessie A Turnbaugh
+  - Andrew D Patterson
+  - Katherine S Pollard
   - Knut Mai
   - Joachim Spranger
-  - Peter J. Turnbaugh
+  - Peter J Turnbaugh
   publisher: Nature
   date: '2021-06-23'
-  link: https://doi.org/gktf4g
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1073/pnas.2012003117
-  title: A thermogenic fat-epithelium cell axis regulates intestinal disease tolerance
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34163067
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33257580
+  title: A thermogenic fat-epithelium cell axis regulates intestinal disease tolerance.
   authors:
   - Kevin Man
   - Christopher Bowman
-  - Kristina N. Braverman
+  - Kristina N Braverman
   - Veronica Escalante
   - Yuan Tian
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Kirthana Ganeshan
   - Biao Wang
   - Andrew Patterson
-  - James R. Bayrer
-  - Peter J. Turnbaugh
+  - James R Bayrer
+  - Peter J Turnbaugh
   - Ajay Chawla
-  publisher: Proceedings of the National Academy of Sciences
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
   date: '2020-11-30'
-  link: https://doi.org/gstdxc
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1126/sciimmunol.abc7191
-  title: "Gut microbiota\u2013specific IgA\n            <sup>+</sup>\n           \
-    \ B cells traffic to the CNS in active multiple sclerosis"
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33257580
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:33219152
+  title: Gut microbiota-specific IgA
   authors:
   - "Anne-Katrin Pr\xF6bstel"
   - Xiaoyuan Zhou
   - Ryan Baumann
   - Sven Wischnewski
   - Michael Kutza
-  - Olga L. Rojas
+  - Olga L Rojas
   - Katrin Sellrie
   - Antje Bischof
   - Kicheol Kim
   - Akshaya Ramesh
   - Ravi Dandekar
-  - Ariele L. Greenfield
-  - Ryan D. Schubert
-  - Jordan E. Bisanz
+  - Ariele L Greenfield
+  - Ryan D Schubert
+  - Jordan E Bisanz
   - Stephanie Vistnes
   - Khashayar Khaleghi
   - James Landefeld
@@ -420,75 +734,78 @@
   - Friederike Liesche-Starnecker
   - Valeria Ramaglia
   - Sneha Singh
-  - Edwina B. Tran
+  - Edwina B Tran
   - Patrick Barba
   - Kelsey Zorn
   - Johanna Oechtering
   - Karin Forsberg
-  - Lawrence R. Shiow
-  - Roland G. Henry
+  - Lawrence R Shiow
+  - Roland G Henry
   - Jennifer Graves
-  - Bruce A. C. Cree
-  - Stephen L. Hauser
+  - Bruce A C Cree
+  - Stephen L Hauser
   - Jens Kuhle
-  - Jeffrey M. Gelfand
-  - Peter M. Andersen
+  - Jeffrey M Gelfand
+  - Peter M Andersen
   - "J\xFCrgen Schlegel"
-  - Peter J. Turnbaugh
-  - Peter H. Seeberger
-  - Jennifer L. Gommerman
-  - Michael R. Wilson
+  - Peter J Turnbaugh
+  - Peter H Seeberger
+  - Jennifer L Gommerman
+  - Michael R Wilson
   - Lucas Schirmer
-  - Sergio E. Baranzini
-  publisher: Science Immunology
-  date: '2020-11-13'
-  link: https://doi.org/gjd67f
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/gad.342006.120
+  - Sergio E Baranzini
+  publisher: Science immunology
+  date: '2020-11-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33219152
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32747479
   title: 'Erratum: Set1/COMPASS repels heterochromatin invasion at euchromatic sites
-    by disrupting Suv39/Clr4 activity and nucleosome stability'
+    by disrupting Suv39/Clr4 activity and nucleosome stability.'
   authors:
-  - R.A. Greenstein
-  - Ramon R. Barrales
-  - Nicholas A. Sanchez
-  - Jordan E. Bisanz
+  - R A Greenstein
+  - Ramon R Barrales
+  - Nicholas A Sanchez
+  - Jordan E Bisanz
   - Sigurd Braun
   - Bassem Al-Sady
-  publisher: Genes &amp; Development
+  publisher: Genes & development
   date: '2020-08-01'
-  link: https://doi.org/gstdxd
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2020.04.006
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32747479
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32348781
   title: A Genomic Toolkit for the Mechanistic Dissection of Intractable Human Gut
-    Bacteria
+    Bacteria.
   authors:
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Paola Soto-Perez
   - Cecilia Noecker
-  - Alexander A. Aksenov
-  - Kathy N. Lam
-  - Grace E. Kenney
-  - Elizabeth N. Bess
-  - Henry J. Haiser
-  - Than S. Kyaw
-  - Feiqiao B. Yu
-  - Vayu M. Rekdal
-  - Connie W.Y. Ha
+  - Alexander A Aksenov
+  - Kathy N Lam
+  - Grace E Kenney
+  - Elizabeth N Bess
+  - Henry J Haiser
+  - Than S Kyaw
+  - Feiqiao B Yu
+  - Vayu M Rekdal
+  - Connie W Y Ha
   - Suzanne Devkota
-  - Emily P. Balskus
-  - Pieter C. Dorrestein
+  - Emily P Balskus
+  - Pieter C Dorrestein
   - Emma Allen-Vercoe
-  - Peter J. Turnbaugh
-  publisher: Cell Host &amp; Microbe
-  date: '2020-06-01'
-  link: https://doi.org/gg3t2m
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.50845
+  - Peter J Turnbaugh
+  publisher: Cell host & microbe
+  date: '2020-04-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32348781
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32067637
   title: A widely distributed metalloenzyme class enables gut microbial metabolism
-    of host- and diet-derived catechols
+    of host- and diet-derived catechols.
   authors:
   - Vayu Maini Rekdal
   - Paola Nol Bernadino
@@ -501,126 +818,131 @@
   - Emily P Balskus
   publisher: eLife
   date: '2020-02-18'
-  link: https://doi.org/gstdxf
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/gad.328468.119
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32067637
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31805521
   title: Set1/COMPASS repels heterochromatin invasion at euchromatic sites by disrupting
-    Suv39/Clr4 activity and nucleosome stability
+    Suv39/Clr4 activity and nucleosome stability.
   authors:
-  - R.A. Greenstein
-  - Ramon R. Barrales
-  - Nicholas A. Sanchez
-  - Jordan E. Bisanz
+  - R A Greenstein
+  - Ramon R Barrales
+  - Nicholas A Sanchez
+  - Jordan E Bisanz
   - Sigurd Braun
   - Bassem Al-Sady
-  publisher: Genes &amp; Development
+  publisher: Genes & development
   date: '2019-12-05'
-  link: https://doi.org/gstdxg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41564-019-0596-1
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31805521
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31686027
   title: Genetic basis for the cooperative bioactivation of plant lignans by Eggerthella
-    lenta and other human gut bacteria
+    lenta and other human gut bacteria.
   authors:
-  - Elizabeth N. Bess
-  - Jordan E. Bisanz
+  - Elizabeth N Bess
+  - Jordan E Bisanz
   - Fauna Yarza
   - Annamarie Bustion
-  - Barry E. Rich
+  - Barry E Rich
   - Xingnan Li
   - Seiya Kitamura
   - Emily Waligurski
   - Qi Yan Ang
-  - Diana L. Alba
+  - Diana L Alba
   - Peter Spanogiannopoulos
   - Stephen Nayfach
-  - Suneil K. Koliwad
-  - Dennis W. Wolan
-  - Adrian A. Franke
-  - Peter J. Turnbaugh
-  publisher: Nature Microbiology
+  - Suneil K Koliwad
+  - Dennis W Wolan
+  - Adrian A Franke
+  - Peter J Turnbaugh
+  publisher: Nature microbiology
   date: '2019-11-04'
-  link: https://doi.org/grj456
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41564-019-0569-4
-  title: Cooking shapes the structure and function of the gut microbiome
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31686027
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31570867
+  title: Cooking shapes the structure and function of the gut microbiome.
   authors:
-  - Rachel N. Carmody
-  - Jordan E. Bisanz
-  - Benjamin P. Bowen
-  - Corinne F. Maurice
+  - Rachel N Carmody
+  - Jordan E Bisanz
+  - Benjamin P Bowen
+  - Corinne F Maurice
   - Svetlana Lyalina
-  - Katherine B. Louie
+  - Katherine B Louie
   - Daniel Treen
-  - Katia S. Chadaideh
+  - Katia S Chadaideh
   - Vayu Maini Rekdal
-  - Elizabeth N. Bess
+  - Elizabeth N Bess
   - Peter Spanogiannopoulos
   - Qi Yan Ang
-  - Kylynda C. Bauer
-  - Thomas W. Balon
-  - Katherine S. Pollard
-  - Trent R. Northen
-  - Peter J. Turnbaugh
-  publisher: Nature Microbiology
+  - Kylynda C Bauer
+  - Thomas W Balon
+  - Katherine S Pollard
+  - Trent R Northen
+  - Peter J Turnbaugh
+  publisher: Nature microbiology
   date: '2019-09-30'
-  link: https://doi.org/gf854q
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2019.08.008
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31570867
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31492655
   title: CRISPR-Cas System of a Prevalent Human Gut Bacterium Reveals Hyper-targeting
-    against Phages in a Human Virome Catalog
+    against Phages in a Human Virome Catalog.
   authors:
   - Paola Soto-Perez
-  - Jordan E. Bisanz
-  - Joel D. Berry
-  - Kathy N. Lam
+  - Jordan E Bisanz
+  - Joel D Berry
+  - Kathy N Lam
   - Joseph Bondy-Denomy
-  - Peter J. Turnbaugh
-  publisher: Cell Host &amp; Microbe
-  date: '2019-09-01'
-  link: https://doi.org/ggctnn
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41587-019-0252-6
+  - Peter J Turnbaugh
+  publisher: Cell host & microbe
+  date: '2019-09-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31492655
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31399723
   title: 'Author Correction: Reproducible, interactive, scalable and extensible microbiome
-    data science using QIIME 2'
+    data science using QIIME 2.'
   authors:
   - Evan Bolyen
   - Jai Ram Rideout
-  - Matthew R. Dillon
-  - Nicholas A. Bokulich
-  - Christian C. Abnet
-  - Gabriel A. Al-Ghalith
+  - Matthew R Dillon
+  - Nicholas A Bokulich
+  - Christian C Abnet
+  - Gabriel A Al-Ghalith
   - Harriet Alexander
-  - Eric J. Alm
+  - Eric J Alm
   - Manimozhiyan Arumugam
   - Francesco Asnicar
   - Yang Bai
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Kyle Bittinger
   - Asker Brejnrod
-  - Colin J. Brislawn
-  - C. Titus Brown
-  - Benjamin J. Callahan
+  - Colin J Brislawn
+  - C Titus Brown
+  - Benjamin J Callahan
   - "Andr\xE9s Mauricio Caraballo-Rodr\xEDguez"
   - John Chase
-  - Emily K. Cope
+  - Emily K Cope
   - Ricardo Da Silva
   - Christian Diener
-  - Pieter C. Dorrestein
-  - Gavin M. Douglas
-  - Daniel M. Durall
+  - Pieter C Dorrestein
+  - Gavin M Douglas
+  - Daniel M Durall
   - Claire Duvallet
-  - Christian F. Edwardson
+  - Christian F Edwardson
   - Madeleine Ernst
   - Mehrbod Estaki
   - Jennifer Fouquier
-  - Julia M. Gauglitz
-  - Sean M. Gibbons
-  - Deanna L. Gibson
+  - Julia M Gauglitz
+  - Sean M Gibbons
+  - Deanna L Gibson
   - Antonio Gonzalez
   - Kestrel Gorlick
   - Jiarong Guo
@@ -628,20 +950,20 @@
   - Susan Holmes
   - Hannes Holste
   - Curtis Huttenhower
-  - Gavin A. Huttley
+  - Gavin A Huttley
   - Stefan Janssen
-  - Alan K. Jarmusch
+  - Alan K Jarmusch
   - Lingjing Jiang
-  - Benjamin D. Kaehler
+  - Benjamin D Kaehler
   - Kyo Bin Kang
-  - Christopher R. Keefe
+  - Christopher R Keefe
   - Paul Keim
-  - Scott T. Kelley
+  - Scott T Kelley
   - Dan Knights
   - Irina Koester
   - Tomasz Kosciolek
   - Jorden Kreps
-  - Morgan G. I. Langille
+  - Morgan G I Langille
   - Joslynn Lee
   - Ruth Ley
   - Yong-Xin Liu
@@ -649,40 +971,40 @@
   - Catherine Lozupone
   - Massoud Maher
   - Clarisse Marotz
-  - Bryan D. Martin
+  - Bryan D Martin
   - Daniel McDonald
-  - Lauren J. McIver
-  - Alexey V. Melnik
-  - Jessica L. Metcalf
-  - Sydney C. Morgan
-  - Jamie T. Morton
+  - Lauren J McIver
+  - Alexey V Melnik
+  - Jessica L Metcalf
+  - Sydney C Morgan
+  - Jamie T Morton
   - Ahmad Turan Naimey
-  - Jose A. Navas-Molina
+  - Jose A Navas-Molina
   - Louis Felix Nothias
-  - Stephanie B. Orchanian
+  - Stephanie B Orchanian
   - Talima Pearson
-  - Samuel L. Peoples
+  - Samuel L Peoples
   - Daniel Petras
   - Mary Lai Preuss
   - Elmar Pruesse
   - Lasse Buur Rasmussen
   - Adam Rivers
-  - Michael S. Robeson
+  - Michael S Robeson
   - Patrick Rosenthal
   - Nicola Segata
   - Michael Shaffer
   - Arron Shiffer
   - Rashmi Sinha
   - Se Jin Song
-  - John R. Spear
-  - Austin D. Swafford
-  - Luke R. Thompson
-  - Pedro J. Torres
+  - John R Spear
+  - Austin D Swafford
+  - Luke R Thompson
+  - Pedro J Torres
   - Pauline Trinh
   - Anupriya Tripathi
-  - Peter J. Turnbaugh
+  - Peter J Turnbaugh
   - Sabah Ul-Hasan
-  - Justin J. J. van der Hooft
+  - Justin J J van der Hooft
   - Fernando Vargas
   - "Yoshiki V\xE1zquez-Baeza"
   - Emily Vogtmann
@@ -691,57 +1013,58 @@
   - Yunhu Wan
   - Mingxun Wang
   - Jonathan Warren
-  - Kyle C. Weber
-  - Charles H. D. Williamson
-  - Amy D. Willis
+  - Kyle C Weber
+  - Charles H D Williamson
+  - Amy D Willis
   - Zhenjiang Zech Xu
-  - Jesse R. Zaneveld
+  - Jesse R Zaneveld
   - Yilong Zhang
   - Qiyun Zhu
   - Rob Knight
-  - J. Gregory Caporaso
-  publisher: Nature Biotechnology
-  date: '2019-08-09'
-  link: https://doi.org/gnvjzf
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41587-019-0209-9
+  - J Gregory Caporaso
+  publisher: Nature biotechnology
+  date: '2019-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31399723
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31341288
   title: Reproducible, interactive, scalable and extensible microbiome data science
-    using QIIME 2
+    using QIIME 2.
   authors:
   - Evan Bolyen
   - Jai Ram Rideout
-  - Matthew R. Dillon
-  - Nicholas A. Bokulich
-  - Christian C. Abnet
-  - Gabriel A. Al-Ghalith
+  - Matthew R Dillon
+  - Nicholas A Bokulich
+  - Christian C Abnet
+  - Gabriel A Al-Ghalith
   - Harriet Alexander
-  - Eric J. Alm
+  - Eric J Alm
   - Manimozhiyan Arumugam
   - Francesco Asnicar
   - Yang Bai
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Kyle Bittinger
   - Asker Brejnrod
-  - Colin J. Brislawn
-  - C. Titus Brown
-  - Benjamin J. Callahan
+  - Colin J Brislawn
+  - C Titus Brown
+  - Benjamin J Callahan
   - "Andr\xE9s Mauricio Caraballo-Rodr\xEDguez"
   - John Chase
-  - Emily K. Cope
+  - Emily K Cope
   - Ricardo Da Silva
   - Christian Diener
-  - Pieter C. Dorrestein
-  - Gavin M. Douglas
-  - Daniel M. Durall
+  - Pieter C Dorrestein
+  - Gavin M Douglas
+  - Daniel M Durall
   - Claire Duvallet
-  - Christian F. Edwardson
+  - Christian F Edwardson
   - Madeleine Ernst
   - Mehrbod Estaki
   - Jennifer Fouquier
-  - Julia M. Gauglitz
-  - Sean M. Gibbons
-  - Deanna L. Gibson
+  - Julia M Gauglitz
+  - Sean M Gibbons
+  - Deanna L Gibson
   - Antonio Gonzalez
   - Kestrel Gorlick
   - Jiarong Guo
@@ -749,20 +1072,20 @@
   - Susan Holmes
   - Hannes Holste
   - Curtis Huttenhower
-  - Gavin A. Huttley
+  - Gavin A Huttley
   - Stefan Janssen
-  - Alan K. Jarmusch
+  - Alan K Jarmusch
   - Lingjing Jiang
-  - Benjamin D. Kaehler
+  - Benjamin D Kaehler
   - Kyo Bin Kang
-  - Christopher R. Keefe
+  - Christopher R Keefe
   - Paul Keim
-  - Scott T. Kelley
+  - Scott T Kelley
   - Dan Knights
   - Irina Koester
   - Tomasz Kosciolek
   - Jorden Kreps
-  - Morgan G. I. Langille
+  - Morgan G I Langille
   - Joslynn Lee
   - Ruth Ley
   - Yong-Xin Liu
@@ -770,40 +1093,40 @@
   - Catherine Lozupone
   - Massoud Maher
   - Clarisse Marotz
-  - Bryan D. Martin
+  - Bryan D Martin
   - Daniel McDonald
-  - Lauren J. McIver
-  - Alexey V. Melnik
-  - Jessica L. Metcalf
-  - Sydney C. Morgan
-  - Jamie T. Morton
+  - Lauren J McIver
+  - Alexey V Melnik
+  - Jessica L Metcalf
+  - Sydney C Morgan
+  - Jamie T Morton
   - Ahmad Turan Naimey
-  - Jose A. Navas-Molina
+  - Jose A Navas-Molina
   - Louis Felix Nothias
-  - Stephanie B. Orchanian
+  - Stephanie B Orchanian
   - Talima Pearson
-  - Samuel L. Peoples
+  - Samuel L Peoples
   - Daniel Petras
   - Mary Lai Preuss
   - Elmar Pruesse
   - Lasse Buur Rasmussen
   - Adam Rivers
-  - Michael S. Robeson
+  - Michael S Robeson
   - Patrick Rosenthal
   - Nicola Segata
   - Michael Shaffer
   - Arron Shiffer
   - Rashmi Sinha
   - Se Jin Song
-  - John R. Spear
-  - Austin D. Swafford
-  - Luke R. Thompson
-  - Pedro J. Torres
+  - John R Spear
+  - Austin D Swafford
+  - Luke R Thompson
+  - Pedro J Torres
   - Pauline Trinh
   - Anupriya Tripathi
-  - Peter J. Turnbaugh
+  - Peter J Turnbaugh
   - Sabah Ul-Hasan
-  - Justin J. J. van der Hooft
+  - Justin J J van der Hooft
   - Fernando Vargas
   - "Yoshiki V\xE1zquez-Baeza"
   - Emily Vogtmann
@@ -812,99 +1135,103 @@
   - Yunhu Wan
   - Mingxun Wang
   - Jonathan Warren
-  - Kyle C. Weber
-  - Charles H. D. Williamson
-  - Amy D. Willis
+  - Kyle C Weber
+  - Charles H D Williamson
+  - Amy D Willis
   - Zhenjiang Zech Xu
-  - Jesse R. Zaneveld
+  - Jesse R Zaneveld
   - Yilong Zhang
   - Qiyun Zhu
   - Rob Knight
-  - J. Gregory Caporaso
-  publisher: Nature Biotechnology
-  date: '2019-07-24'
-  link: https://doi.org/gf5292
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.chom.2019.06.013
-  title: Meta-Analysis Reveals Reproducible Gut Microbiome Alterations in Response
-    to a High-Fat Diet
-  authors:
-  - Jordan E. Bisanz
-  - Vaibhav Upadhyay
-  - Jessie A. Turnbaugh
-  - Kimberly Ly
-  - Peter J. Turnbaugh
-  publisher: Cell Host &amp; Microbe
+  - J Gregory Caporaso
+  publisher: Nature biotechnology
   date: '2019-08-01'
-  link: https://doi.org/gg4kcb
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1126/science.aau6323
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31341288
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31324413
+  title: Meta-Analysis Reveals Reproducible Gut Microbiome Alterations in Response
+    to a High-Fat Diet.
+  authors:
+  - Jordan E Bisanz
+  - Vaibhav Upadhyay
+  - Jessie A Turnbaugh
+  - Kimberly Ly
+  - Peter J Turnbaugh
+  publisher: Cell host & microbe
+  date: '2019-07-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31324413
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31196984
   title: Discovery and inhibition of an interspecies gut bacterial pathway for Levodopa
-    metabolism
+    metabolism.
   authors:
   - Vayu Maini Rekdal
-  - Elizabeth N. Bess
-  - Jordan E. Bisanz
-  - Peter J. Turnbaugh
-  - Emily P. Balskus
-  publisher: Science
+  - Elizabeth N Bess
+  - Jordan E Bisanz
+  - Peter J Turnbaugh
+  - Emily P Balskus
+  publisher: Science (New York, N.Y.)
   date: '2019-06-14'
-  link: https://doi.org/c699
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.cmet.2019.05.002
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31196984
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31130466
   title: Nutrient Sensing in CD11c Cells Alters the Gut Microbiota to Regulate Food
-    Intake and Body Mass
+    Intake and Body Mass.
   authors:
-  - D. Nyasha Chagwedera
+  - D Nyasha Chagwedera
   - Qi Yan Ang
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Yew Ann Leong
   - Kirthana Ganeshan
   - Jingwei Cai
-  - Andrew D. Patterson
-  - Peter J. Turnbaugh
+  - Andrew D Patterson
+  - Peter J Turnbaugh
   - Ajay Chawla
-  publisher: Cell Metabolism
-  date: '2019-08-01'
-  link: https://doi.org/gkrd5d
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1080/19490976.2018.1526581
-  title: Immobilization of cadmium and lead by <i>Lactobacillus rhamnosus</i> GR-1
-    mitigates apical-to-basolateral heavy metal translocation in a Caco-2 model of
-    the intestinal epithelium
+  publisher: Cell metabolism
+  date: '2019-05-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31130466
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30426826
+  title: Immobilization of cadmium and lead by
   authors:
-  - Brendan A. Daisley
+  - Brendan A Daisley
   - Marc Monachese
   - Mark Trinder
-  - Jordan E. Bisanz
-  - John A. Chmiel
-  - Jeremy P. Burton
+  - Jordan E Bisanz
+  - John A Chmiel
+  - Jeremy P Burton
   - Gregor Reid
-  publisher: Gut Microbes
+  publisher: Gut microbes
   date: '2018-11-14'
-  link: https://doi.org/gstdxh
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1124/dmd.118.083402
-  title: How to Determine the Role of the Microbiome in Drug Disposition
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30426826
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30111623
+  title: How to Determine the Role of the Microbiome in Drug Disposition.
   authors:
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Peter Spanogiannopoulos
-  - Lindsey M. Pieper
-  - Annamarie E. Bustion
-  - Peter J. Turnbaugh
-  publisher: Drug Metabolism and Disposition
-  date: '2018-11-01'
-  link: https://doi.org/gqf924
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.33953
+  - Lindsey M Pieper
+  - Annamarie E Bustion
+  - Peter J Turnbaugh
+  publisher: 'Drug metabolism and disposition: the biological fate of chemicals'
+  date: '2018-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30111623
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29761785
   title: Discovery and characterization of a prevalent human gut bacterial enzyme
-    sufficient for the inactivation of a family of plant toxins
+    sufficient for the inactivation of a family of plant toxins.
   authors:
   - Nitzan Koppel
   - Jordan E Bisanz
@@ -913,26 +1240,28 @@
   - Emily P Balskus
   publisher: eLife
   date: '2018-05-15'
-  link: https://doi.org/ghv8d5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.mimet.2017.11.014
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29761785
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29155236
   title: 'Evaluation of sampling and storage procedures on preserving the community
-    structure of stool microbiota: A simple at-home toilet-paper collection method'
+    structure of stool microbiota: A simple at-home toilet-paper collection method.'
   authors:
-  - Kait F. Al
-  - Jordan E. Bisanz
-  - Gregory B. Gloor
+  - Kait F Al
+  - Jordan E Bisanz
+  - Gregory B Gloor
   - Gregor Reid
-  - Jeremy P. Burton
-  publisher: Journal of Microbiological Methods
-  date: '2018-01-01'
-  link: https://doi.org/gczg5b
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3748/wjg.v23.i25.4632
+  - Jeremy P Burton
+  publisher: Journal of microbiological methods
+  date: '2017-11-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29155236
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:28740352
   title: Long-term irritable bowel syndrome symptom control with reintroduction of
-    selected FODMAPs
+    selected FODMAPs.
   authors:
   - Ruth M Harvie
   - Alexandra W Chisholm
@@ -941,162 +1270,186 @@
   - Peter Herbison
   - Kim Schultz
   - Michael Schultz
-  publisher: World Journal of Gastroenterology
-  date: '2017-01-01'
-  link: https://doi.org/gbprmv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7717/peerj.2095
+  publisher: World journal of gastroenterology
+  date: '2017-07-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28740352
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27330858
   title: The oral microbiome of patients with axial spondyloarthritis compared to
-    healthy individuals
+    healthy individuals.
   authors:
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Praema Suppiah
-  - W. Murray Thomson
+  - W Murray Thomson
   - Trudy Milne
   - Nigel Yeoh
   - Anita Nolan
   - Grace Ettinger
   - Gregor Reid
-  - Gregory B. Gloor
-  - Jeremy P. Burton
-  - Mary P. Cullinan
-  - Simon M. Stebbings
+  - Gregory B Gloor
+  - Jeremy P Burton
+  - Mary P Cullinan
+  - Simon M Stebbings
   publisher: PeerJ
   date: '2016-06-09'
-  link: https://doi.org/gstdxj
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/srep14174
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27330858
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26387596
   title: A multi-platform metabolomics approach identifies highly specific biomarkers
-    of bacterial diversity in the vagina of pregnant and non-pregnant women
+    of bacterial diversity in the vagina of pregnant and non-pregnant women.
   authors:
   - Amy McMillan
   - Stephen Rulisa
   - Mark Sumarah
-  - Jean M. Macklaim
+  - Jean M Macklaim
   - Justin Renaud
-  - Jordan E. Bisanz
-  - Gregory B. Gloor
+  - Jordan E Bisanz
+  - Gregory B Gloor
   - Gregor Reid
-  publisher: Scientific Reports
+  publisher: Scientific reports
   date: '2015-09-21'
-  link: https://doi.org/f7rz7c
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1128/AEM.00780-15
-  title: Microbiota at Multiple Body Sites during Pregnancy in a Rural Tanzanian Population
-    and Effects of Moringa-Supplemented Probiotic Yogurt
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26387596
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:26123785
+  title: 'Probiotic lactobacilli: a potential prophylactic treatment for reducing
+    pesticide absorption in humans and wildlife.'
   authors:
-  - Jordan E. Bisanz
-  - Megan K. Enos
+  - M Trinder
+  - J E Bisanz
+  - J P Burton
+  - G Reid
+  publisher: Beneficial microbes
+  date: '2015-06-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26123785
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25979893
+  title: Microbiota at Multiple Body Sites during Pregnancy in a Rural Tanzanian Population
+    and Effects of Moringa-Supplemented Probiotic Yogurt.
+  authors:
+  - Jordan E Bisanz
+  - Megan K Enos
   - George PrayGod
   - Shannon Seney
-  - Jean M. Macklaim
+  - Jean M Macklaim
   - Stephanie Chilton
   - Dana Willner
   - Rob Knight
   - Christoph Fusch
   - Gerhard Fusch
-  - Gregory B. Gloor
-  - Jeremy P. Burton
+  - Gregory B Gloor
+  - Jeremy P Burton
   - Gregor Reid
-  publisher: Applied and Environmental Microbiology
-  date: '2015-08-01'
-  link: https://doi.org/f7jmqq
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1128/mBio.01580-14
-  title: Randomized Open-Label Pilot Study of the Influence of Probiotics and the
-    Gut Microbiome on Toxic Metal Levels in Tanzanian Pregnant Women and School Children
+  publisher: Applied and environmental microbiology
+  date: '2015-05-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25979893
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25293764
+  title: Randomized open-label pilot study of the influence of probiotics and the
+    gut microbiome on toxic metal levels in Tanzanian pregnant women and school children.
   authors:
-  - Jordan E. Bisanz
-  - Megan K. Enos
-  - Joseph R. Mwanga
+  - Jordan E Bisanz
+  - Megan K Enos
+  - Joseph R Mwanga
   - John Changalucha
-  - Jeremy P. Burton
-  - Gregory B. Gloor
+  - Jeremy P Burton
+  - Gregory B Gloor
   - Gregor Reid
   publisher: mBio
-  date: '2014-10-31'
-  link: https://doi.org/gnvc7k
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0104511
-  title: A Systems Biology Approach Investigating the Effect of Probiotics on the
-    Vaginal Microbiome and Host Responses in a Double Blind, Placebo-Controlled Clinical
-    Trial of Post-Menopausal Women
+  date: '2014-10-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25293764
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25127240
+  title: A systems biology approach investigating the effect of probiotics on the
+    vaginal microbiome and host responses in a double blind, placebo-controlled clinical
+    trial of post-menopausal women.
   authors:
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Shannon Seney
   - Amy McMillan
   - Rebecca Vongsa
   - David Koenig
   - LungFai Wong
   - Barbara Dvoracek
-  - Gregory B. Gloor
+  - Gregory B Gloor
   - Mark Sumarah
   - Brenda Ford
   - Dorli Herman
-  - Jeremy P. Burton
+  - Jeremy P Burton
   - Gregor Reid
-  publisher: PLoS ONE
+  publisher: PloS one
   date: '2014-08-15'
-  link: https://doi.org/gstdxk
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1111/aji.12086
-  title: The Rationale for Probiotics Improving Reproductive Health and Pregnancy
-    Outcome
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25127240
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:23414386
+  title: The rationale for probiotics improving reproductive health and pregnancy
+    outcome.
   authors:
-  - Jennifer N. S. Reid
-  - Jordan E. Bisanz
+  - Jennifer N S Reid
+  - Jordan E Bisanz
   - Marc Monachese
-  - Jeremy P. Burton
+  - Jeremy P Burton
   - Gregor Reid
-  publisher: American Journal of Reproductive Immunology
+  publisher: 'American journal of reproductive immunology (New York, N.Y. : 1989)'
   date: '2013-02-18'
-  link: https://doi.org/gbc2w9
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0026602
-  title: Vaginal Microbiome and Epithelial Gene Array in Post-Menopausal Women with
-    Moderate to Severe Dryness
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23414386
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22073175
+  title: Vaginal microbiome and epithelial gene array in post-menopausal women with
+    moderate to severe dryness.
   authors:
   - Ruben Hummelen
-  - Jean M. Macklaim
-  - Jordan E. Bisanz
+  - Jean M Macklaim
+  - Jordan E Bisanz
   - Jo-Anne Hammond
   - Amy McMillan
   - Rebecca Vongsa
   - David Koenig
-  - Gregory B. Gloor
+  - Gregory B Gloor
   - Gregor Reid
-  publisher: PLoS ONE
+  publisher: PloS one
   date: '2011-11-02'
-  link: https://doi.org/dws9bn
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1126/scitranslmed.3003291
-  title: Unraveling How Probiotic Yogurt Works
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22073175
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:22030747
+  title: Unraveling how probiotic yogurt works.
   authors:
-  - Jordan E. Bisanz
+  - Jordan E Bisanz
   - Gregor Reid
-  publisher: Science Translational Medicine
+  publisher: Science translational medicine
   date: '2011-10-26'
-  link: https://doi.org/cpqn9s
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1517/14656566.2010.512004
-  title: Probiotic strategies for the treatment and prevention of bacterial vaginosis
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22030747
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:21080853
+  title: Probiotic strategies for the treatment and prevention of bacterial vaginosis.
   authors:
   - Roderick A MacPhee
   - Ruben Hummelen
   - Jordan E Bisanz
   - Wayne L Miller
   - Gregor Reid
-  publisher: Expert Opinion on Pharmacotherapy
-  date: '2010-11-17'
-  link: https://doi.org/fg7t7v
-  plugin: sources.py
-  file: sources.yaml
+  publisher: Expert opinion on pharmacotherapy
+  date: '2010-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21080853
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
