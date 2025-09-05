@@ -9,7 +9,7 @@ nav:
 
 We support a collaborative space for high throughput microbiome characterization made possible in part through donations from Qiagen. Find out more about their support for microbiome research [here](https://corporate.qiagen.com/English/newsroom/press-releases/press-release-details/2024/QIAGEN-announces-partnership-with-Penn-State-University-to-advance-microbiome-sciences/default.aspx). Find out more about the space [here](https://www.huck.psu.edu/institutes-and-centers/microbiome-center/member-resources/microbiome-research-resources). We also host open protocols for sample extraction and sequencing [here](https://github.com/BisanzLab/OHMC_Colaboratory).
 
-![](/images/colab.png)
+![](https://github.com/BisanzLab/OHMC_Colaboratory/blob/main/images/flowchart.jpg)
 
 ## Wet Lab Protocols
 
