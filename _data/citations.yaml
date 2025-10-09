@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:40970516
+  title: 'Effect of Varying Quantities of Lean Beef as Part of a Mediterranean-Style
+    Dietary Pattern on Gut Microbiota and Plasma, Fecal, and Urinary Metabolites:
+    A Randomized Crossover Controlled Feeding Trial.'
+  authors:
+  - Zachary S DiMattia
+  - Jingcheng Zhao
+  - Fuhua Hao
+  - Sergei Koshkin
+  - Jordan E Bisanz
+  - Andrew D Patterson
+  - Jennifer A Fleming
+  - Penny M Kris-Etherton
+  - Kristina S Petersen
+  publisher: Journal of the American Heart Association
+  date: '2025-09-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40970516
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40794845
   title: StrainR2 accurately deconvolutes strain-level abundances in synthetic microbial
     communities.
