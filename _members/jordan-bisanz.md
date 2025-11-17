@@ -10,6 +10,6 @@ links:
   twitter: JordanBisanz
 ---
 
-Dr. Jordan Bisanz is an assistant professor of Biochemistry and Molecular Biology, and Dorothy Foehr and J. Lloyd Huck Early Career Chair in Host-Microbiome Interactions at the Pennsylvania State University and the One Health Microbiome Center. The Bisanz lab combines multi-omics analyses, gnotobiotic animal models, and wet lab experimentation to understand how gut microbes interact with each other and their host to shape health. With a dual focus on generating both mechanistic knowledge, and leveraging it for translational applications, the Bisanz lab is active in the development of microbiota-targeted interventions including genetically engineered probiotics and synthetic fecal microbiota transplants.
+Dr. Jordan Bisanz is an assistant professor of Biochemistry and Molecular Biology, and Dorothy Foehr and J. Lloyd Huck Early Career Chair in Host-Microbiome Interactions at the Pennsylvania State University and the One Health Microbiome Center. The Bisanz lab combines multi-omics analyses, gnotobiotic animal models, and wet lab experimentation to understand how gut microbes interact with each other and their host to shape health. With a dual focus on generating both mechanistic knowledge, and leveraging it for translational applications, the Bisanz lab is active in the development of microbiota-targeted interventions including genetically engineered probiotics and synthetic fecal microbiota transplants. 
 
-Download a copy of Jordan's Fall 2025 CV [here](https://github.com/BisanzLab/bisanzlab.github.io/blob/main/images/JBisanz_2025CV_website.pdf).
+Download a copy of Jordan's Fall 2025 CV [here](https://github.com/BisanzLab/bisanzlab.github.io/blob/main/images/JBisanz_2025CV_Seminars_17Nov2025.pdf).
