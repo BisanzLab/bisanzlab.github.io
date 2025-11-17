@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41239968
+  title: Design and application of synthetic human gut microbial communities.
+  authors:
+  - Min Soo Kim
+  - Jordan E Bisanz
+  publisher: Gut microbes
+  date: '2025-11-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41239968
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41222145
+  title: A synthetic gut microbiota provides an understanding of the maintenance and
+    functional impact of phage.
+  authors:
+  - Heejung Koo
+  - Kerim Heber
+  - Shuchang Tian
+  - Shane T Connolly
+  - Fuhua Hao
+  - Jingcheng Zhao
+  - Bethany Swencki-Underwood
+  - Andrew D Patterson
+  - Guy E Townsend
+  - Jordan E Bisanz
+  publisher: mBio
+  date: '2025-11-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41222145
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:40970516
   title: 'Effect of Varying Quantities of Lean Beef as Part of a Mediterranean-Style
     Dietary Pattern on Gut Microbiota and Plasma, Fecal, and Urinary Metabolites:
