@@ -19,8 +19,8 @@ nav:
 
 
 ## Lab Alumni
-| :----            | :----:                       |  :----:                      | :----:                                  |  ----:                |
 | Member           | Role                         | Years In Lab                 | Current Position                        | Accolades             |
+| :----            | :----:                       |  :----:                      | :----:                                  |  ----:                |
 | Susan Tian       | PhD Student                  | 2021 - 2025                 | Postdoc @ UCSF with Susan Lynch  | Paul Berg Prize for Outstanding Student in Molecular Biology @ PSU |
 | Kerim Heber      | Undergraduate Researcher      | 2023 - 2025                 | PhD Candidate, Genomics and Computational Biology, UPenn  | NSF GRFP awardee, Co-authored 3 manuscripts including a first author manuscript in Bioinformatics |
 | Heejung Koo      | Undergraduate Researcher       | 2022 - 2025               | PhD Candidate, Cell and Molecular Biology, UPenn  | John and Paige Lapinski Undergraduate Fellowship, ABRCMS Presentation Award |
