@@ -7,7 +7,7 @@ nav:
 
 ## Inclusivity
 
-We embrace all human (and microbial) diversity. Much like a healthy gut microbiome, it is our view that a diverse group of scientists is needed to build a healthy research group. Our goal is to build a multidisciplinary research group comprised of individuals with a variety of backgrounds, life experiences, skills, and ways of thinking. State College is a vibrant and diverse community where very few people you meet are “from here”. Penn State is also one of the ["Best of the Best" LGBTQ-friendly schools in the USA](https://campusprideindex.org/campuses/details/222?campus=the-pennsylvania-state-university). 
+We embrace all human and microbial diversity. Much like a healthy gut microbiome, it is our view that a diverse group of scientists is needed to build a healthy research group. Our goal is to build a multidisciplinary research group comprised of individuals with a variety of backgrounds, experiences, skills, and ways of thinking. State College is a vibrant and diverse community where very few people you meet are “from here”. State College is called the Happy Valley for a reason and was recently awarded the top "College Town" in America by [USA Today](https://10best.usatoday.com/awards/best-small-college-town/). 
 
 ## Mentorship
 
