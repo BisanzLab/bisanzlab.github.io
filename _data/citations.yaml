@@ -1,5 +1,95 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:41806833
+  title: Immune-microbiome coordination defines interferon setpoints in healthy humans.
+  authors:
+  - Joel Babdor
+  - Ravi K Patel
+  - Brittany Davidson
+  - Kelvin Koser
+  - Cecilia Noecker
+  - Maha K Rahim
+  - Jordan E Bisanz
+  - Iliana Tenvooren
+  - Diana Marquez
+  - Maria Calvo
+  - Vrinda Johri
+  - Elizabeth E McCarthy
+  - Avneet Shaheed
+  - Christina Ekstrand
+  - Allison M Weakley
+  - Feiqiao B Yu
+  - Kristen Krip
+  - Kashif A Shaikh
+  - Hajera Amatullah
+  - Oliver Fiehn
+  - Peter J Turnbaugh
+  - Alexis J Combes
+  - Gabriela K Fragiadakis
+  - Matthew H Spitzer
+  publisher: Cell
+  date: '2026-03-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41806833
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41726940
+  title: Interkingdom glycine conjugates of indole-3-carboxylates are Ah receptor
+    ligands.
+  authors:
+  - Ethan W Morgan
+  - Andrew J Annalora
+  - Denise M Coslo
+  - Krishne Gowda
+  - Dhimant Desai
+  - Fangcong Dong
+  - Ethan W Davis
+  - Iain A Murray
+  - Fuhua Hao
+  - Imhoi Koo
+  - Kristina S Petersen
+  - Penny M Kris-Etherton
+  - Trenton Wolfe
+  - Reece Erickson
+  - Seth T Walk
+  - Jordon E Bisanz
+  - Shantu G Amin
+  - Craig B Marcus
+  - Andrew D Patterson
+  - Gary H Perdew
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2026-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41726940
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:41377969
+  title: Tracing NAD
+  authors:
+  - Abrar I Alsaadi
+  - Lina Welz
+  - Anant A Pothakamury
+  - Clara Gilloteau
+  - Praveena Prasad
+  - Mahmoud S Yahia
+  - Jaedon Sadler
+  - Jaclyn D Smith
+  - Brenita C Jenkins
+  - Garret S Diven
+  - "Johanna Bornh\xE4user"
+  - Taous Mekdoud
+  - Shuchang Tian
+  - Philip Rosenstiel
+  - Stefan Schreiber
+  - Jordan E Bisanz
+  - Konrad Aden
+  - Melanie R McReynolds
+  publisher: Research square
+  date: '2025-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41377969
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41239968
   title: Design and application of synthetic human gut microbial communities.
   authors:
