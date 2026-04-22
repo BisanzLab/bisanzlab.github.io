@@ -17,7 +17,7 @@ Microbial diversity matters, but why? This 5-year NIH/NIGMS funded project seeks
 
 PFAS are forever chemicals known for their widespread use and adverse effects on human health. Our work has uncovered that PFAS interact with gut microbes for both better and worse. Together with Co-PIs Yuan Tian, Jeff Peters, and Co-I Andrew PAtterson, we are solving the mysteries of how PFAS contribute to chronic disease.
 
-![](https://www.niehs.nih.gov/themes/custom/niehs_cms/web-resources/images/niehs-logo.svg&width=500&height=100)
+![](https://our.unc.edu/wp-content/uploads/sites/1148/2023/01/niehs-wpv_400x600.jpeg)
 
 ## Previous
 
