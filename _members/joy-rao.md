@@ -1,4 +1,4 @@
---
+---
 name: Joy Rao
 image: images/team/Joy_Rao.jpg
 role: undergrad
