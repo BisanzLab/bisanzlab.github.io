@@ -1,7 +1,7 @@
 ---
 name: Annika Williams
 image: images/team/Annika_Williams.jpg
-role: Undergraduate Researcher
+role: undergrad
 links:
   email: alw6497@psu.edu
 ---

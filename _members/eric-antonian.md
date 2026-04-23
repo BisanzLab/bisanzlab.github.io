@@ -2,7 +2,6 @@
 name: Eric Antonian
 image: images/team/Eric_Antonian.jpg
 role: phd
-role: PhD Graduate Student
 links:
   email: eka5370@psu.edu
   orcid: 0009-0009-6940-4381

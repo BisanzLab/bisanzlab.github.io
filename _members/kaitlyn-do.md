@@ -1,7 +1,7 @@
 ---
 name: Kaitlyn Do
 image: images/team/Kaitlyn_Do.jpg
-role: Undergraduate Researcher
+role: undergrad
 links:
   email: kvd5678@psu.edu
 ---
