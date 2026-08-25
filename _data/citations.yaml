@@ -1,5 +1,138 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42549904
+  title: Soilless farming system design impacts the diversity and composition of microbiota.
+  authors:
+  - Auja Bywater
+  - Aline Novaski Seffrin
+  - Jordan E Bisanz
+  - Francesco Di Gioia
+  - Jasna Kovac
+  publisher: Applied and environmental microbiology
+  date: '2026-08-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42549904
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42501334
+  title: Tracing NAD
+  authors:
+  - Abrar I Alsaadi
+  - Lina Wehkamp
+  - Anant A Pothakamury
+  - Mahmoud S Yahia
+  - Praveena Prasad
+  - Clara Gilloteau
+  - Jaedon Sadler
+  - Jaclyn D Smith
+  - Brenita C Jenkins
+  - Garret S Diven
+  - "Johanna Bornh\xE4user"
+  - Taous Mekdoud
+  - Shuchang Tian
+  - Philip Rosenstiel
+  - Stefan Schreiber
+  - Jordan E Bisanz
+  - Konrad Aden
+  - Melanie R McReynolds
+  publisher: Cell reports
+  date: '2026-07-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42501334
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42430336
+  title: STING agonist protects against exacerbation of schistosome egg-induced immunopathology.
+  authors:
+  - Pengyu Liu
+  - Megan S Linnane
+  - Kaile Jump
+  - Shuchang Tian
+  - Santoshi Chaudhary
+  - Rajeswaran Mani
+  - Jordan E Bisanz
+  - Parisa Kalantari
+  publisher: PLoS pathogens
+  date: '2026-07-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42430336
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42383199
+  title: Core-shell commensal biocapsules for
+  authors:
+  - Lily Foley
+  - Sonika Kohli
+  - Shuchang Tian
+  - Logan C Eisaman
+  - Harshita Ganga
+  - Gabrielle Hamner
+  - Matthew R Aronson
+  - Jordan E Bisanz
+  - Scott H Medina
+  publisher: Bioactive materials
+  date: '2026-06-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42383199
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42227762
+  title: Multi-cohort comparative analysis of salivary microbiotas reveals rural Ethiopians
+    harbor a distinct composition correlated with lower esophageal cancer prevalence.
+  authors:
+  - Girma Mulisa
+  - Jingcheng Zhao
+  - Geda Lelissa
+  - Iyunoluwa J Ademola-Popoola
+  - Anastacia Marie Diaz Huemme
+  - Laura S Weyrich
+  - Adane Mihret
+  - Tufa Gemechu
+  - Abate Bane
+  - Roger Pero-Gascon
+  - Marthe De Boevre
+  - Sarah De Saeger
+  - Tamrat Abebe
+  - Jordan E Bisanz
+  publisher: mSystems
+  date: '2026-06-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42227762
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:42161945
+  title: Glucuronidation metabolomic fingerprinting to map host-microbe metabolism.
+  authors:
+  - Nina R Boyle
+  - Josh J Sekela
+  - Mingxun Wang
+  - Helena Mannochio-Russo
+  - Jeong Joo Pyo
+  - Min Soo Kim
+  - Shuchang Tian
+  - Imhoi Koo
+  - Elliot S Friedman
+  - Ceylan Tanes
+  - Mallappa Anitha
+  - Yuan Tian
+  - Ethan W Morgan
+  - Iain A Murray
+  - Joseph P Zackular
+  - Kyle Bittinger
+  - James D Lewis
+  - Gary H Perdew
+  - Gary D Wu
+  - Babette S Zemel
+  - Pieter C Dorrestein
+  - Jordan E Bisanz
+  - Matthew R Redinbo
+  - Andrew D Patterson
+  publisher: Nature communications
+  date: '2026-05-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42161945
+  term: Bisanz, JE[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:41806833
   title: Immune-microbiome coordination defines interferon setpoints in healthy humans.
   authors:
